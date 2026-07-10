@@ -1,25 +1,25 @@
 # Expense_Tracker
 A simple Python-based expense tracking application using OOP concepts.
-# 💸 Simple Expense Tracker (Python)
+#  Simple Expense Tracker (Python)
 
 Bu proje, Python kullanılarak oluşturulmuş basit bir harcama takip uygulamasıdır.  
 Kullanıcı; harcama ekleyebilir, listeleyebilir, toplam harcamayı görebilir ve kategoriye göre filtreleme yapabilir.
 
 ---
 
-## 🚀 Özellikler
-- ➕ **Harcama ekleme**
-- 📋 **Harcamaları listeleme**
-- 💰 **Toplam harcamayı hesaplama**
-- 🔍 **Kategoriye göre filtreleme**
-- 🧱 **OOP yapısı ile tasarlanmış sınıflar**
+##  Özellikler
+-  **Harcama ekleme**
+-  **Harcamaları listeleme**
+-  **Toplam harcamayı hesaplama**
+-  **Kategoriye göre filtreleme**
+-  **OOP yapısı ile tasarlanmış sınıflar**
   - `Expense`
   - `ExpenseTracker`
-- 🖥️ Kullanıcıyla terminal üzerinden etkileşim
+-  Kullanıcıyla terminal üzerinden etkileşim
 
 ---
 
-## 🧩 Kullanılan Yapılar
+##  Kullanılan Yapılar
 - Object-Oriented Programming (OOP)
 - Sınıflar ve nesneler
 - `__init__()` ve `__str__()` metodları
@@ -30,7 +30,7 @@ Kullanıcı; harcama ekleyebilir, listeleyebilir, toplam harcamayı görebilir v
 
 ---
 
-## 🛠️ Nasıl Çalıştırılır?
+##  Nasıl Çalıştırılır?
 
 Terminalden proje klasörüne gir:
 
